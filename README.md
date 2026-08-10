@@ -13,7 +13,7 @@ Repositori ini berisi proyek akhir (*end-to-end Machine Learning pipeline*) yang
 * Evaluasi proyek akhir mendapatkan nilai maksimal, yaitu **Bintang 5**.
 * Model **Random Forest** yang telah dioptimasi menggunakan teknik *Hyperparameter Tuning* (GridSearchCV) berhasil memetakan ulang batas klaster nasabah dengan tingkat akurasi **100%**.
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tech Stack
 * **Bahasa Pemrograman:** Python
 * **Manipulasi Data:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (Decision Tree, RandomForestClassifier, GridSearchCV)
