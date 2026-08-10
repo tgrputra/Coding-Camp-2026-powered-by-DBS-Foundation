@@ -26,4 +26,4 @@ Repositori ini berisi proyek akhir (*end-to-end Machine Learning pipeline*) yang
 * `*.h5` : File model *machine learning* yang telah dilatih dan siap digunakan.
 * `Sertifikat.pdf` / `Sertifikat.png` : Bukti sertifikat kelulusan Coding Camp 2026.
 
-<img src="sertifikat/Sertifikat.png" alt="Tampilan Desktop">
+<img src="Sertifikat/Sertifikat.png" alt="Tampilan Desktop">
