@@ -22,7 +22,7 @@ Repositori ini berisi proyek akhir (*end-to-end Machine Learning pipeline*) yang
 ## 📁 Struktur File
 * `notebook_clustering.ipynb` : Proses pembersihan data, eksplorasi, dan pembentukan klaster.
 * `notebook_klasifikasi.ipynb` : Pembangunan algoritma dan *hyperparameter tuning* model klasifikasi.
-* `data_clustering_inverse.csv` : Dataset hasil pengelompokan yang nilainya sudah dikembalikan ke skala nyata.
+* `data_clustering_inverse.csv` : Dataset hasil pengelompokan yang nilainya sudah dikembalikan ke skala asli.
 * `*.h5` : File model *machine learning* yang telah dilatih dan siap digunakan.
 * `Sertifikat.pdf` / `Sertifikat.png` : Bukti sertifikat kelulusan Coding Camp 2026.
 
