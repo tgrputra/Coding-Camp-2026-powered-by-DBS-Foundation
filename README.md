@@ -25,3 +25,5 @@ Repositori ini berisi proyek akhir (*end-to-end Machine Learning pipeline*) yang
 * `data_clustering_inverse.csv` : Dataset hasil pengelompokan yang nilainya sudah dikembalikan ke skala nyata.
 * `*.h5` : File model *machine learning* yang telah dilatih dan siap digunakan.
 * `Sertifikat.pdf` / `Sertifikat.png` : Bukti sertifikat kelulusan Coding Camp 2026.
+
+<img src="sertifikat/Sertifikat.png" alt="Tampilan Desktop">
